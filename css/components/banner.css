@@ -1,0 +1,15 @@
+.banner {
+  background-image: url("/landing/images/background.png");
+  background-size: cover;
+  height: 74vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 169px;
+}
+
+.banner p {
+  color: rgba(150, 150, 150, 0.9);
+  font-size: larger;
+}

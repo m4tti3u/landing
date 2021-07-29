@@ -1,0 +1,21 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+}
+
+.diplay-inline > ul, li {
+  list-style: none;
+  display: inline;
+  color: #1DDD88;
+  font-size: 42px;
+  padding: 10px;
+}
+
+.diplay-inline > ul, li:hover {
+  color: #4C4981;
+}
+
+.footer p {
+  color: lightgrey
+}
